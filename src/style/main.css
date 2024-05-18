@@ -272,6 +272,10 @@ body {
 	margin-top: 0.5em;
 }
 
+.skills__item{
+	font-size: 32px;
+}
+
 /* Footer */
 
 
@@ -312,9 +316,10 @@ body {
 		font-size: 40px;
 	}
 
-	.title-2 {
+	.title-2{
 		margin-bottom: 10px;
-		font-size: 30px;
+		font-size: 42px;
+		display: inline-flex;
 	}
 
 	/* Projects */

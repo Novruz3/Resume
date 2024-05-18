@@ -1,25 +1,24 @@
 import React from 'react'
-
 import { Header } from './../components/header/Header';
 
 export const Home = () => {
-  return (
-    <div>
-        <Header/>
-        <main className="section">
-            <div className="container">
+    return (
+        <div>
+            <Header />
+            <main className="section">
+                <div className="container">
                     <ul className="content-list">
                         <li className="content-list__item">
-                            <h2 className="title-2">Frontend</h2>
-                            <p>JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM, BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents</p>
+                            <p className="title-2">Skills</p>
+                            <p className='skills__item'>HTML, CSS, Javascript, Bootstrap, React JS, Typescript, Tailwind CSS, Redux Toolkit, Zustand, Github, Rest API</p>
                         </li>
                         <li className="content-list__item">
-                            <h2 className="title-2">Backend</h2>
-                            <p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
+                            <p className="title-2">Languages</p>
+                            <p className='skills__item'>Turkmen, Russian, English</p>
                         </li>
                     </ul>
-            </div>
-        </main>
-    </div>
-  )
+                </div>
+            </main>
+        </div>
+    )
 }
