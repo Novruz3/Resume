@@ -1,78 +1,67 @@
-import project01 from './../img/projects/resume.jpg'
-import project01Big from './../img/projects/resume.jpg'
-
-import project02 from './../img/projects/02.jpg'
-import project02Big from './../img/projects/02-big.jpg'
-
-import project03 from './../img/projects/03.jpg'
-import project03Big from './../img/projects/03-big.jpg'
-
-import project04 from './../img/projects/04.jpg'
-import project04Big from './../img/projects/04-big.jpg'
-
-import project05 from './../img/projects/05.jpg'
-import project05Big from './../img/projects/05-big.jpg'
-
-import project06 from './../img/projects/06.jpg'
-import project06Big from './../img/projects/06-big.jpg'
+import commerce from "../img/projects/commerce.jpg"
+import global_shop from "../img/projects/Global shop.jpg"
+import kitaphana from "../img/projects/kitaphana.jpg"
+import linkedin from "../img/projects/linkedIn.jpg"
+import phone_store from "../img/projects/phone store.jpg"
+import resume from "../img/projects/resume.jpg"
+import send_file from "../img/projects/send file.jpg"
+import turkmenportal from "../img/projects/turkmenportal.jpg"
+import weather from "../img/projects/weather.jpg"
 
 const projects = [
     {
         title : 'Resume',
         skills : 'Html, Css, Javascript, React',
-        img : project01,
-        imgBig : project01Big,
-        gitHubLink : 'https://github.com'
+        img : resume,
+        gitHubLink : 'https://github.com/Novruz3/Resume'
     },
     {
         title : 'Kitaphana clone',
-        skills : 'Html, Css, Javascript, React',
-        img : project02,
-        imgBig : project02Big,
-        gitHubLink : 'https://github.com'
+        skills : 'Html, Css, Javascript, Bootstrap, React',
+        img : kitaphana,
+        gitHubLink : 'https://github.com/Novruz3/kitaphana_clone'
     },
     {
         title : 'Phone store shopping',
-        skills : 'Html, Css, Javascript, React, Context',
-        img : project03,
-        imgBig : project03Big,
-        gitHubLink : 'https://github.com'
+        skills : 'Html, Css, Javascript, Bootstrap, React, Context',
+        img : phone_store,
+        gitHubLink : 'https://github.com/Novruz3/Phone_store_shopping'
     },
     {
         title : 'Turkmenportal clone',
-        skills : 'Html, Css, Javascript, React',
-        img : project04,
-        imgBig : project04Big,
+        skills : 'Html, Css, Javascript, Bootstrap, React',
+        img: turkmenportal,
+        gitHubLink : 'https://github.com/Novruz3/Turkmenportal_clone'
     },
     {
         title : 'Weather app',
-        skills : 'Html, Css, Javascript, React, Api',
-        img : project05,
-        imgBig : project05Big,
+        skills : 'Html, Css, Javascript, Bootstrap, React, Api',
+        img: weather,
+        gitHubLink : 'https://github.com/Novruz3/Weather_app'
     },
     {
         title : 'LinkedIn sign in with firebase',
-        skills : 'Html, Css, Javascript, React, Api, Firebase',
-        img : project06,
-        imgBig : project06Big,
+        skills : 'Html, Css, Javascript, React, Material UI, Api, Firebase',
+        img: linkedin,
+        gitHubLink : 'https://github.com/LinkedIn_sign_in_with_firebase'
     },
     {
-        title : 'Todo list typescript zustand',
-        skills : 'Html, Css, Javascript, React, Zustand',
-        img : project06,
-        imgBig : project06Big,
+        title : 'Online send file',
+        skills : 'Html, Css, Javascript, Bootstrap, React, Zustand',
+        img: send_file,
+        gitHubLink : 'https://github.com'
     },
     {
         title : 'E-commerce',
         skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Zustand, Api',
-        img : project06,
-        imgBig : project06Big,
+        img: commerce,
+        gitHubLink : 'https://github.com/Novruz3/react-typescript-taillwind-zustand'
     },
     {
-        title : 'Youtube clone',
+        title : 'Global shop',
         skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Api, Redux Toolkit',
-        img : project06,
-        imgBig : project06Big,
+        img: global_shop,
+        gitHubLink : 'https://github.com/Novruz3/GLOBAL-SHOP-online-store'
     }
 ]
 
