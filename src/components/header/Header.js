@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-const CV = "http://localhost:3000/CV_NOWRUZ.pdf/"
+const CV = "http://localhost:3000/CV_NOWRUZ.pdf"
 
 export const Header = () => {
   return (
@@ -14,7 +14,7 @@ export const Header = () => {
                   <div className="header__text">
                       <p>with passion for learning and creating.</p>
                   </div>
-                  <a href={CV} download={CV} className="btn">Download CV</a>
+                  <a href={CV} download className="btn">Download CV</a>
               </div>
           </header>
     </div>
