@@ -12,8 +12,12 @@ export const Contacts = () => {
                             <p className='skills__item'>Ashgabat, Turkmenistan</p>
                         </li>
                         <li className="content-list__item">
+                            <h2 className="title-2">Phone</h2>
+                            <p className='skills__item'><a href="tel:+99362111877">+993 (62) 11-18-77</a></p>
+                        </li>
+                        <li className="content-list__item">
                             <h2 className="title-2">Telegram</h2>
-                            <p className='skills__item'><a href="tel:+79051234567">+993 (63) 09-78-64</a></p>
+                            <p className='skills__item'><a href="tel:+99363097864">+993 (63) 09-78-64</a></p>
                         </li>
                         <li className="content-list__item">
                             <h2 className="title-2">Email</h2>
