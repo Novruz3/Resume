@@ -12,9 +12,9 @@ export const Footer = () => {
             <div className="container">
                 <div className="footer__wrapper">
                     <ul className="social">
-                        <li className="social__item"><a href="https://instagram.com"><img src={instagram} alt="Link"/></a></li>
-                        <li className="social__item"><a href="https://github.com"><img src={gitHub} alt="Link"/></a></li>
-                        <li className="social__item"><a href="https://ru.linkedin.com"><img src={linkedIn} alt="Link"/></a></li>
+                        <li className="social__item"><a href="https://instagram.com/__nowruzzz"><img src={instagram} alt="Link"/></a></li>
+                        <li className="social__item"><a href="https://github.com/Novruz3"><img src={gitHub} alt="Link"/></a></li>
+                        <li className="social__item"><a href="https://ru.linkedin.com/"><img src={linkedIn} alt="Link"/></a></li>
                     </ul>
                     <div className="copyright">
                         <p>© 2024 frontend-dev.com</p>

@@ -1,5 +1,5 @@
-import project01 from './../img/projects/01.jpg'
-import project01Big from './../img/projects/01-big.jpg'
+import project01 from './../img/projects/resume.jpg'
+import project01Big from './../img/projects/resume.jpg'
 
 import project02 from './../img/projects/02.jpg'
 import project02Big from './../img/projects/02-big.jpg'
@@ -18,41 +18,59 @@ import project06Big from './../img/projects/06-big.jpg'
 
 const projects = [
     {
-        title : 'Gaming streaming portal',
-        skills : 'React, Node.Js, MongoDB',
+        title : 'Resume',
+        skills : 'Html, Css, Javascript, React',
         img : project01,
         imgBig : project01Big,
         gitHubLink : 'https://github.com'
     },
     {
-        title : 'Video servise',
-        skills : 'React, PHP, MySql',
+        title : 'Kitaphana clone',
+        skills : 'Html, Css, Javascript, React',
         img : project02,
         imgBig : project02Big,
         gitHubLink : 'https://github.com'
     },
     {
-        title : 'Video Portal',
-        skills : 'Vue Js, Node.Js, MongoDB',
+        title : 'Phone store shopping',
+        skills : 'Html, Css, Javascript, React, Context',
         img : project03,
         imgBig : project03Big,
         gitHubLink : 'https://github.com'
     },
     {
-        title : 'Dating App',
-        skills : 'React Native',
+        title : 'Turkmenportal clone',
+        skills : 'Html, Css, Javascript, React',
         img : project04,
         imgBig : project04Big,
     },
     {
-        title : 'Landing',
-        skills : 'HTML, SCSS, JS',
+        title : 'Weather app',
+        skills : 'Html, Css, Javascript, React, Api',
         img : project05,
         imgBig : project05Big,
     },
     {
-        title : 'Gaming community',
-        skills : 'React, PHP, MySql',
+        title : 'LinkedIn sign in with firebase',
+        skills : 'Html, Css, Javascript, React, Api, Firebase',
+        img : project06,
+        imgBig : project06Big,
+    },
+    {
+        title : 'Todo list typescript zustand',
+        skills : 'Html, Css, Javascript, React, Zustand',
+        img : project06,
+        imgBig : project06Big,
+    },
+    {
+        title : 'E-commerce',
+        skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Zustand, Api',
+        img : project06,
+        imgBig : project06Big,
+    },
+    {
+        title : 'Youtube clone',
+        skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Api, Redux Toolkit',
         img : project06,
         imgBig : project06Big,
     }
