@@ -1,14 +1,10 @@
 import { NavLink } from 'react-router-dom'
 import React, { useEffect } from 'react'
 import './style.css'
-
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
-
-
 export const Project = ({ title, img, index }) => {
-
   useEffect(() => {
     AOS.init()
   })

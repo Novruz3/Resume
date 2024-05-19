@@ -3,7 +3,6 @@ import { BtnDarkMode } from '../../btnDarkMode/BtnDarkMode'
 import './style.css'
 
 export const Navbar = () => {
-
   const activeLink = 'nav-list__link nav-list__link--active'
   const normalLink = 'nav-list__link'
 
