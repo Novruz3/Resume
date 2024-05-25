@@ -10,7 +10,7 @@ export const Home = () => {
                     <ul className="content-list">
                         <li className="content-list__item">
                             <p className="title-2">Skills</p>
-                            <p className='skills__item'>HTML, CSS, Javascript, Bootstrap, React JS, Typescript, Tailwind CSS, Redux Toolkit, Zustand, Github, Rest API</p>
+                            <p className='skills__item'>HTML, CSS, Javascript, Bootstrap, React JS, Typescript, Tailwind CSS, Redux Toolkit, Zustand, Github, Axios, Rest API</p>
                         </li>
                         <li className="content-list__item">
                             <p className="title-2">Languages</p>

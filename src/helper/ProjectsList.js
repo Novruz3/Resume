@@ -7,6 +7,7 @@ import resume from "../img/projects/resume.jpg"
 import send_file from "../img/projects/send file.jpg"
 import turkmenportal from "../img/projects/turkmenportal.jpg"
 import weather from "../img/projects/weather.jpg"
+import youtube from "../img/projects/youtube.jpg"
 
 const projects = [
     {
@@ -35,13 +36,13 @@ const projects = [
     },
     {
         title : 'Weather app',
-        skills : 'Html, Css, Javascript, Bootstrap, React, Api',
+        skills : 'Html, Css, Javascript, Bootstrap, React, Axios, Api',
         img: weather,
         gitHubLink : 'https://github.com/Novruz3/Weather_app'
     },
     {
         title : 'LinkedIn sign in with firebase',
-        skills : 'Html, Css, Javascript, React, Material UI, Api, Firebase',
+        skills : 'Html, Css, Javascript, React, Material UI, Api, Axios, Firebase',
         img: linkedin,
         gitHubLink : 'https://github.com/LinkedIn_sign_in_with_firebase'
     },
@@ -53,15 +54,21 @@ const projects = [
     },
     {
         title : 'E-commerce',
-        skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Zustand, Api',
+        skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Zustand, Axios, Api',
         img: commerce,
         gitHubLink : 'https://github.com/Novruz3/react-typescript-taillwind-zustand'
     },
     {
         title : 'Global shop',
-        skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Api, Redux Toolkit',
+        skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Axios, Api, Redux Toolkit',
         img: global_shop,
         gitHubLink : 'https://github.com/Novruz3/GLOBAL-SHOP-online-store'
+    },
+    {
+        title : 'Youtube clone',
+        skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Axios, Api, Redux Toolkit',
+        img: youtube,
+        gitHubLink : 'https://github.com/Novruz3/youtube-clone'
     }
 ]
 
