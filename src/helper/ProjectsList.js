@@ -8,6 +8,7 @@ import send_file from "../img/projects/send file.jpg"
 import turkmenportal from "../img/projects/turkmenportal.jpg"
 import weather from "../img/projects/weather.jpg"
 import youtube from "../img/projects/youtube.jpg"
+import res_ui from "../img/projects/restaurant ui.jpg"
 
 const projects = [
     {
@@ -69,6 +70,12 @@ const projects = [
         skills : 'Html, Css, Javascript, React, Typescript, Tailwind Css, Axios, Api, Redux Toolkit',
         img: youtube,
         gitHubLink : 'https://github.com/Novruz3/youtube-clone'
+    },
+    {
+        title : 'Online order foods',
+        skills : 'Html, Css, Javascript, React, Next JS, Typescript, Tailwind Css, Zustand',
+        img: res_ui,
+        gitHubLink : 'https://github.com/Novruz3/restaurant_ui/tree/master/restaurant_ui'
     }
 ]
 
