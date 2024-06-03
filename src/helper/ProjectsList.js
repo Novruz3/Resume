@@ -8,7 +8,7 @@ import send_file from "../img/projects/send file.jpg"
 import turkmenportal from "../img/projects/turkmenportal.jpg"
 import weather from "../img/projects/weather.jpg"
 import youtube from "../img/projects/youtube.jpg"
-import res_ui from "../img/projects/restaurant ui.jpg"
+import res_ui from "../img/projects/res ui.jpg"
 
 const projects = [
     {
