@@ -6,7 +6,7 @@ import weather from "../img/projects/weather.jpg";
 import youtube from "../img/projects/youtube.jpg";
 import res_ui from "../img/projects/res ui.jpg";
 import lybas from "../img/projects/lybas.png";
-import lybas_admin from "../img/projects/lybas lybas admin.png";
+import lybas_admin from "../img/projects/lybas admin.png";
 import camel_hill from "../img/projects/camell hill.png";
 
 const projects = [
