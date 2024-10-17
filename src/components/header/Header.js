@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-const CV = "https://resume-nowruz.netlify.app/Novruz.pdf"
+const CV = "https://resume-nowruz.netlify.app/Nowruz.pdf"
 
 export const Header = () => {
   return (
