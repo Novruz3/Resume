@@ -18,7 +18,6 @@ export const Home = () => {
                         </li>
                         <li className="content-list__item">
                             <p style={{color : "blue"}} className="title-2">Experience</p>
-<<<<<<< HEAD
                             <div>
                                 <p style={{fontSize:"28px", fontWeight:'800'}} className='skills__item__2'>Geek Space </p>
                                 <p style={{fontSize:"28px", fontWeight:'500'}} className='skills__item'>Frontend Developer </p>
@@ -29,11 +28,6 @@ export const Home = () => {
                                 <p style={{fontSize:"28px", fontWeight:'500'}} className='skills__item'>Frontend Developer </p>
                                 <p style={{fontSize: "24px"}} className='skills__item'>August 2024 - Present</p>
                             </div>
-=======
-                            <p className='skills__item__2'>Geek Space </p>
-                            <p style={{fontSize:"28px", fontWeight:'600'}} className='skills__item'>Frontend Developer </p>
-                            <p style={{fontSize: "24px"}} className='skills__item'>February 2024 - Present</p>
->>>>>>> 1f9616a98f5ef761d96a26c70633f4d3ef0ceab1
                         </li>
                     </ul>
                 </div>
