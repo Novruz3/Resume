@@ -1,8 +1,5 @@
-import commerce from "../img/projects/commerce.jpg";
-import linkedin from "../img/projects/linkedIn.jpg";
 import resume from "../img/projects/resume.jpg";
 import turkmenportal from "../img/projects/turkmenportal.jpg";
-import weather from "../img/projects/weather.jpg";
 import youtube from "../img/projects/youtube.jpg";
 import res_ui from "../img/projects/res ui.jpg";
 import lybas from "../img/projects/lybas.png";
@@ -58,24 +55,6 @@ const projects = [
     skills: "Html, Css, Javascript, Bootstrap, React",
     img: turkmenportal,
     gitHubLink: "https://github.com/Novruz3/Turkmenportal_clone",
-  },
-  {
-    title: "Weather app",
-    skills: "Html, Css, Javascript, Bootstrap, React, Axios, Api",
-    img: weather,
-  },
-  {
-    title: "LinkedIn sign in with firebase",
-    skills: "Html, Css, Javascript, React, Material UI, Api, Axios, Firebase",
-    img: linkedin,
-    gitHubLink: "https://github.com/LinkedIn_sign_in_with_firebase",
-  },
-  {
-    title: "E-commerce",
-    skills:
-      "Html, Css, Javascript, React, Typescript, Tailwind Css, Zustand, Axios, Api",
-    img: commerce,
-    gitHubLink: "https://github.com/Novruz3/react-typescript-taillwind-zustand",
   },
   {
     title: "Youtube clone",
