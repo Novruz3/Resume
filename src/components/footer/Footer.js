@@ -16,7 +16,7 @@ export const Footer = () => {
                             <li className="social__item"><a href="https://ru.linkedin.com/"><img src={linkedIn} alt="Link" /></a></li>
                         </ul>
                         <div className="copyright">
-                            <p>© 2024 frontend-dev.com</p>
+                            <p>© 2025 frontend-dev.com</p>
                         </div>
                     </div>
                 </div>

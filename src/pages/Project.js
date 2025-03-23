@@ -19,6 +19,9 @@ export const Project = () => {
             {project.gitHubLink && (
               <BtnGitgub link={project.gitHubLink} />
             )}
+            {project.link && (
+              <BtnGitgub link={project.link} />
+            )}
           </div>
         </div>
       </main>
