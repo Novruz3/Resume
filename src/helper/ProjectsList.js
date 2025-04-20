@@ -2,11 +2,12 @@ import resume from "../img/projects/resume.jpg";
 import lybas from "../img/projects/lybas.png";
 import lybas_admin from "../img/projects/lybas admin.png";
 import camel_hill from "../img/projects/camell hill.png";
-import nesil_coffee from "../img/projects/nesilcoffee.png";
+import nesil_coffee from "../img/projects/nesil.png";
 import bazar_tm from "../img/projects/BazarTM.png";
 import ytm from "../img/projects/ytm.png";
 import bimaks from "../img/projects/bimaks.png";
 import dinle from "../img/projects/dinle.png";
+import arcitect from "../img/projects/architect.png"
 
 const projects = [
   {
@@ -15,6 +16,13 @@ const projects = [
       "Html, Css, Javascript, React, Tailwind Css, Redux Toolkit, Axios, Api",
     img: nesil_coffee,
     link: "https://nesilcoffee.com/",
+  },
+  {
+    title: "Archi Designer",
+    skills:
+      "Html, Css, Javascript, React, Next Js, Tailwind Css, Shadcn UI, Redux Toolkit, PostgreSQL, Framer Motion, Cloudinary, Neon DB, Vercel",
+    img: arcitect,
+    link: "https://portfolio-akmyrat.vercel.app/",
   },
   {
     title: "Dinle-de hinlen!",
