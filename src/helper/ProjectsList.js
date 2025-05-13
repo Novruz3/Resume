@@ -7,7 +7,7 @@ import bazar_tm from "../img/projects/BazarTM.png";
 import ytm from "../img/projects/ytm.png";
 import bimaks from "../img/projects/bimaks.png";
 import dinle from "../img/projects/dinle.png";
-import arcitect from "../img/projects/architect.png"
+import arhides from "../img/projects/arhides.png"
 
 const projects = [
   {
@@ -18,11 +18,11 @@ const projects = [
     link: "https://nesilcoffee.com/",
   },
   {
-    title: "Archi Designer",
+    title: "ARHIDES",
     skills:
       "Html, Css, Javascript, React, Next Js, Tailwind Css, Shadcn UI, Redux Toolkit, PostgreSQL, Framer Motion, Cloudinary, Neon DB, Vercel",
-    img: arcitect,
-    link: "https://portfolio-akmyrat.vercel.app/",
+    img: arhides,
+    link: "https://arhides.vercel.app/",
   },
   {
     title: "Dinle-de hinlen!",
