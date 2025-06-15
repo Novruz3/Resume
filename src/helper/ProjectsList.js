@@ -4,7 +4,6 @@ import lybas_admin from "../img/projects/lybas admin.png";
 import camel_hill from "../img/projects/camell hill.png";
 import nesil_coffee from "../img/projects/nesil.png";
 import bazar_tm from "../img/projects/BazarTM.png";
-import ytm from "../img/projects/ytm.png";
 import bimaks from "../img/projects/bimaks.png";
 import dinle from "../img/projects/dinle.png";
 import arhides from "../img/projects/arhides.png"
@@ -27,7 +26,7 @@ const projects = [
   {
     title: "Dinle-de hinlen!",
     skills:
-      "Html, Css, Javascript, React, Next JS, Typescript, Tailwind Css, Redux Toolkit, React Query, Axios, Api, Material UI, Socket io",
+      "Html, Css, Javascript, React, Next JS, Typescript, Tailwind Css, Redux Toolkit, React Query, Axios, Material UI, Socket io",
     img: dinle,
     link: "https://dinle.com.tm/",
   },
@@ -58,13 +57,6 @@ const projects = [
       "Html, Css, Javascript, React, Tailwind Css, Redux Toolkit, Axios, Api",
     img: bimaks,
     link: "https://www.bimakstm.com/",
-  },
-  {
-    title: "YTM",
-    skills:
-      "Html, Css, Javascript, React, Redux Toolkit, Axios, Api",
-    img: ytm,
-    link: "https://ytm.tm/",
   },
   {
     title: "Camell Hill",

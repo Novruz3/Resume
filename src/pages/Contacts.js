@@ -20,14 +20,14 @@ export const Contacts = () => {
             <li className="content-list__item">
               <h2 className="title-2">Telegram</h2>
               <p className="skills__item">
-                <a href="https://t.me/Novruz333">@Novruz333</a>
+                <a href="https://t.me/novruz3">@novruz3</a>
               </p>
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Email</h2>
               <p className="skills__item">
-                <a href="owliyagulyyewnowruz@gmail.com">
-                  owliyagulyyewnowruz@gmail.com
+                <a href="zurwon23@gmail.com">
+                  zurwon23@gmail.com
                 </a>
               </p>
             </li>
